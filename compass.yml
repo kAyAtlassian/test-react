@@ -1,0 +1,18 @@
+name: test-react
+id: ari:cloud:compass:11832bd2-d97a-4dc5-ac5a-3debeb3e8fd5:component/e587da8c-7535-4378-af04-77f8af5036f8/b030bc1c-0d03-4d1d-8356-896ab4767029
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/kAyAtlassian/test-react
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:javascript
+  - source:github
+customFields: null
